@@ -1,0 +1,16 @@
+  <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Euro_Series_Banknotes_%282019%29.jpg/189px-Euro_Series_Banknotes_%282019%29.jpg"
+            alt="Euro banknotes">
+        <figcaption>
+            <p>
+                Euro Banknotes
+            </p>
+        </figcaption>
+    </figure>
+    <figure>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Euro_symbol.svg/189px-Euro_symbol.svg.png"
+            alt="Euro Logo">
+        <figcaption>
+            Euro Logo
+        </figcaption>
+    </figure>
