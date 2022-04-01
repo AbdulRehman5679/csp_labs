@@ -1,0 +1,89 @@
+/*figure.booted_eagle img {
+  width: 50%;
+  height: 50%;
+  float: right;
+}
+figure.eastern_imperial_eagle img {
+  width: 50%;
+  height: 50%;
+  float: right;
+}
+figure.eastern_imperial_eagle  figcaption {
+  opacity: 0;
+  position: static;
+  top: 0px;
+  background-color: rgba(0,0,0, .5);
+  color: white;
+  width: 50%;
+  height: 50%;
+  padding: 5px;
+  box-sizing: border-box;
+  transition: opacity 0.75s;
+}
+figure.eagles_together figcaption {
+  opacity: 0;
+  position: static;
+  top: 0px;
+  background-color: rgba(0,0,0, .5);
+  color: white;
+  width: 50%;
+  height: 50%;
+  padding: 5px;
+  box-sizing: border-box;
+  transition: opacity 0.75s;
+}
+figure.eagles_together:hover figcaption {
+    opacity: 1;
+}
+figure.eagles_together img {
+  width: 50%;
+  height: 50%;
+  float: right;
+}
+section.test {
+  display: block;
+}
+table#tablespec1 {
+  position: static;
+  float: left;
+  border: 1px solid #606060;
+  padding: 0.5rem;
+  border-spacing:0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+table#tablespec2 {
+  position: static;
+  float: left;
+  border: 1px solid #606060;
+  padding: 0.5rem;
+  border-spacing:0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+table#tablespec3 {
+  float: left;
+  border: 1px solid #606060;
+  padding: 0.5rem;
+  border-spacing:0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  text-align: justify;
+  text-indent: 50px;
+  padding: 0.5rem;
+}
+th{
+  background-color: #aaaaaa;
+}
+h2, h3 {
+  padding: 0.5rem;
+}
+a {
+  color: black;
+}
+body {
+  font-size: large;
+}
+*/
